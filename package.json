@@ -1,0 +1,15 @@
+{
+  "name": "template-typescript",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.4",
+    "typescript": "^4.8.2"
+  }
+}
