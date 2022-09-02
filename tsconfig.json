@@ -1,8 +1,11 @@
 {
+    "ts-node": {
+        "transpileOnly": true
+    },
     "compilerOptions": {
         "target": "ESNext",
         "moduleResolution": "Node",
-        "watch": true,
-        "outDir": "dist"
+        "esModuleInterop": true,
+        "rootDir": "src"
     }
 }

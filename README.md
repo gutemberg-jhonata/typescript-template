@@ -10,10 +10,6 @@ Instale as dependências com o comando
 
     npm i
 
-Compile o typescript com o comando:
-
-    npm run build
-
 Execute o programa com o comando:
 
-    node dist/(node_do_arquivo)
+    npm run start (node_do_arquivo)
